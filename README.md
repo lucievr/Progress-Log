@@ -1,7 +1,7 @@
 # Progress-Log
-<em>daily short reports on progress</em>
+<em><strong>daily short reports on progress</strong></em>
 
-### 23/02/2019
+#### 23/02/2019
 * familiarised myself with pre-bootcamp materials & syllabus
 * continued with Udemy web dev bootcamp by Angela Yu
 * learnt about js functions and practised using Stanford robot Karel
@@ -12,4 +12,4 @@
 * DOM (the Document Objec Model) - getElementBy, querySelector, innerHTML vs innerText, classList.add/remove/toggle, getAttribute vs setAttribute
 * tweet update
 
-### 24/02/2019
+#### 24/02/2019
