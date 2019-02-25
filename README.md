@@ -23,4 +23,11 @@
 #### 25/02/2019
 * continued with Udemy web dev bootcamp by Angela Yu
 * revisited lessons 146-148 about keyboard event listeners, callbacks, and simple animations for better understanding
+* learnt about jQuery and completed a number of exercices
+* started working through my pre-bootcamp materials - reviewed web dev basics, keyboard shortcuts, basic cmd commands
+* tweet update
+
+
+
+#### 26/02/19
 * tweaked both challenges to personalise design and style
