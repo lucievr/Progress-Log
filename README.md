@@ -13,3 +13,14 @@
 * tweet update
 
 #### 24/02/2019
+* continued with Udemy web dev bootcamp by Angela Yu
+* built a simple dice game using JavaScript and DOM (add dice images, create a random number 1-6, display winner)
+* learnt about JS hihgher order functions, constructor functions, and callback functions
+* learnt about event listeners, switch statements, js audio objects, objects and methods, and simple animations
+* created a drum kit using advanced js and DOM manipulation
+* tweet update
+
+#### 25/02/2019
+* continued with Udemy web dev bootcamp by Angela Yu
+* revisited lessons 146-148 about keyboard event listeners, callbacks, and simple animations for better understanding
+* tweaked both challenges to personalise design and style
