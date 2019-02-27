@@ -31,9 +31,16 @@
 * worked through pre-bootcamp materials (computer science history, web developer roadmap, intro to html & css)
 * completed lessons on web and html on marksheet.io
 * continued with freeCodeCamp JS section (debugging and basic data structures)
-* continued with Udemy web dev bootcamp by Angela Yu (Unix command line)
-* tweet update??
+* continued with Udemy web dev bootcamp by Angela Yu
+* learnt about Unix command line, the basics of backend, Hyper terminal, node.js
+* tweet update
 
 #### 27/02/19
+
+* CS50 week 0 YouTube video 
+* continued with Udemy web dev bootcamp by Angela Yu
+* express.js, git & GitHub
+
+
 
 * tweaked both challenges to personalise design and style
