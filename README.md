@@ -32,15 +32,30 @@
 * completed lessons on web and html on marksheet.io
 * continued with freeCodeCamp JS section (debugging and basic data structures)
 * continued with Udemy web dev bootcamp by Angela Yu
-* learnt about Unix command line, the basics of backend, Hyper terminal, node.js
+* learnt about the Unix command line, the basics of backend, Hyper terminal, npm and node.js
 * tweet update
 
 #### 27/02/19
 
-* CS50 week 0 YouTube video 
+* watched Harvard Uni CS50 course week 0 YouTube video as part of pre-bootcamp prep
 * continued with Udemy web dev bootcamp by Angela Yu
-* express.js, git & GitHub
+* created my first server with express.js and installed nodemon & body parser
+* learnt about handling requests and responses & created a BMI calculator app
+* reviewed lesson on git, GitHub & version control (git add/commit/push, local vs remote repo, gitignore, cloning)
 
+#### 28/02/2019
+* purchased lucie.dev domain for personal project website <3
+* continued with Udemy web dev bootcamp by Angela Yu
+* intro to APIs (Application Programming Interfaces)
+* learnt about request module, JSON, API calls with parameters
+* created a bitcoin converter app with current exchange rates and a newsletter sign up app via Mailchimp
+* tweet update
 
+#### 01/03/2019
+git branching, merging, forking, pull requests
+GitHub Learning Lab
+learnt about Heroku and project deployment
 
-* tweaked both challenges to personalise design and style
+to do:
+* tweaked both challenges (dice & drum kit) to personalise design and style
+* Simon challenge
