@@ -56,6 +56,7 @@
 * learnt about git branching, merging, forking, and pull requests
 * completed two courses from GitHub Learning Lab (intro html & github slideshow)
 * learnt about Heroku and project deployment
+* watched CS50 week 0 continued
 * started Scratch project as part of pre-bootcamp prep
 
 #### 02/03/2019
@@ -63,6 +64,17 @@
 * tweet update
 * continued with Udemy web dev bootcamp by Angela
 * completed section on EJS(Embedded JavaScript templating), practised on a To Do List app and learnt about node module exports
+
+#### 03/03/2019
+* tweet update
+* completed sections basics of programming & introduction to JavaScript of pre-bootcamp materials
+* started Intro to JavaScript course on CodeCademy (conditionals, functions, scope, arrays)
+
+#### 04/03/2019
+* started my two-week in-class course on JavaScript
+* for the first time learnt a bit of web dev terminology in Czech during the class
+* watched some introductory resources on Agile (will dig deeper later to learn more about this set of rules and principles)
+* continued with js course on CodeCademy
 
 
 to do:
