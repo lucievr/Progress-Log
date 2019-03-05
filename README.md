@@ -74,7 +74,14 @@
 * started my two-week in-class course on JavaScript
 * for the first time learnt a bit of web dev terminology in Czech during the class
 * watched some introductory resources on Agile (will dig deeper later to learn more about this set of rules and principles)
-* continued with js course on CodeCademy
+* continued with js course on CodeCademy (loops)
+* tweet update
+
+#### 05/03/2019
+* spent most part of the day in my JavaScript class
+* attended coding workshop & intro session with Coding Bootcamp Praha
+* signed up for a workshop on Agile taking place later in March
+* tweet update
 
 
 to do:
