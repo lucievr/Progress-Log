@@ -83,6 +83,13 @@
 * signed up for a workshop on Agile taking place later in March
 * tweet update
 
+#### 06/03/2019
+* day 3 of JavaScript course
+* revised and practised DOM manipulation, event listeners, modulo, and anonymous functions
+* learnt about set interval and set timeout functions
+* created a web page for generating random rgba colours when colour box clicked (used git throughout and pushed to GitHub)
+* tweet update
+
 
 to do:
 * tweaked both challenges (dice & drum kit) to personalise design and style
