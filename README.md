@@ -1,5 +1,5 @@
 # Progress-Log
-<em><strong>daily short reports on progress</strong></em>
+<em><strong>short daily reports on progress</strong></em>
 
 #### 23/02/2019
 * familiarised myself with pre-bootcamp materials & syllabus
@@ -78,7 +78,7 @@
 * tweet update
 
 #### 05/03/2019
-* spent most part of the day in my JavaScript class
+* day 2 of JavaScript course
 * attended coding workshop & intro session with Coding Bootcamp Praha
 * signed up for a workshop on Agile taking place later in March
 * tweet update
@@ -88,6 +88,18 @@
 * revised and practised DOM manipulation, event listeners, modulo, and anonymous functions
 * learnt about set interval and set timeout functions
 * created a web page for generating random rgba colours when colour box clicked (used git throughout and pushed to GitHub)
+* tweet update
+
+#### 07/03/2019
+* day 4 of js course
+* learnt about keyword this, data attributes (data/dataset class), jQuery, append/prepend/hide/show, add/remove/toggleClass/hasClass
+* Codecademy js promises
+
+#### 08/03/2019
+* day 5 of js course
+* learnt how to use and implement selected external libraries (PhotoSwipe, MicroModal, Toastr, Slick Carousel, Vegas Effect)
+* started JavaScript30 challenge by wesbos
+* created a simple clock showing current time using js & CSS and pushed to GitHub
 * tweet update
 
 
