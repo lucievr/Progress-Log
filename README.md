@@ -93,17 +93,28 @@
 #### 07/03/2019
 * day 4 of js course
 * learnt about keyword this, data attributes (data/dataset class), jQuery, append/prepend/hide/show, add/remove/toggleClass/hasClass
-* Codecademy js promises
+* continued with Codecademy's course on JavaScript (loops, iterators, and started js promises)
 
 #### 08/03/2019
 * day 5 of js course
 * learnt how to use and implement selected external libraries (PhotoSwipe, MicroModal, Toastr, Slick Carousel, Vegas Effect)
 * started JavaScript30 challenge by wesbos
 * created a simple clock showing current time using js & CSS and pushed to GitHub
+
+#### 09/03/2019
+* continued with js course on CodeCademy (higher-order functions, js promises, async-await, browser compatibility)
+* started a new web dev course on Udemy (Zero to Mastery with Andrei Neagoie)
+* completed sections 1-9 (internet, history of the web, html, css, Bootstrap...)
 * tweet update
 
+#### 10/03/2019
+* continued with zero to mastery web dev course on Udemy
+* completed sections 10-12, 14, 15 (web dev career, js, DOM, command line, developer environment)
+* partially completed section 13 on advanced JavaScript
 
 to do:
-* tweaked both challenges (dice & drum kit) to personalise design and style
-* Simon challenge
 * marksheet.io css part
+* php & laravel pre-bootcamp materials
+* complete pre-bootcamp questionnaire!
+* tweak both challenges (dice & drum kit) to personalise design and style
+* Simon challenge
