@@ -112,6 +112,12 @@
 * completed sections 10-12, 14, 15 (web dev career, js, DOM, command line, developer environment)
 * partially completed section 13 on advanced JavaScript
 
+#### 11/03/2019
+* day 6 of js course
+* started working on course website project and learnt some advanced js concepts
+* came up with an idea for a personal website project - drew up a basic wireframe and decided on the layout, colour scheme and main website components
+* tweet update
+
 to do:
 * marksheet.io css part
 * php & laravel pre-bootcamp materials
