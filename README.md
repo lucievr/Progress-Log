@@ -118,6 +118,11 @@
 * came up with an idea for a personal website project - drew up a basic wireframe and decided on the layout, colour scheme and main website components
 * tweet update
 
+#### 12/03/2019
+* day 7 of js course
+* focused mostly on object oriented programming and created a simple mouse/cheese game
+* continued with website js animatation as part of the class website project
+
 to do:
 * marksheet.io css part
 * php & laravel pre-bootcamp materials
