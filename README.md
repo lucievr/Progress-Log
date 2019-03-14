@@ -123,6 +123,20 @@
 * focused mostly on object oriented programming and created a simple mouse/cheese game
 * continued with website js animatation as part of the class website project
 
+#### 13/03/2019
+* day 8 of js course
+* completed GitHub Learning Labs course on GitHub Pages
+* learnt about defer and async + event object properites (target, type, timeStamp)
+* started with React course part I on CodeCademy
+* tweet update
+
+#### 14/03/2019
+* day 9 of js course
+* worked on world clock js project - added times of two other locations and styled the page
+* completed section on JSX of CodeCademy React course
+* signed up for Frontend Masters and started Complete Intro to Web Dev course by Brian Holt
+* html, css & js refresher + learnt about AJAX, event bubbling & event.stopPropagation/preventDefault
+
 to do:
 * marksheet.io css part
 * php & laravel pre-bootcamp materials
