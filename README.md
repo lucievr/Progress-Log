@@ -138,8 +138,11 @@
 * html, css & js refresher + learnt about AJAX, event bubbling & event.stopPropagation/preventDefault
 
 to do:
-* marksheet.io css part
-* php & laravel pre-bootcamp materials
-* complete pre-bootcamp questionnaire!
-* tweak both challenges (dice & drum kit) to personalise design and style
-* Simon challenge
+- [ ] doggo api site for Becky & js calculator
+- [ ] marksheet.io css part & css tricks
+- [ ] php & laravel pre-bootcamp materials
+- [ ] complete pre-bootcamp questionnaire!
+- [ ] complete first mockup website
+- [ ] tweak world clock & colour generator
+- [ ] tweak both challenges (dice & drum kit) to personalise design and style
+- [ ] Simon challenge
