@@ -137,6 +137,12 @@
 * signed up for Frontend Masters and started Complete Intro to Web Dev course by Brian Holt
 * html, css & js refresher + learnt about AJAX, event bubbling & event.stopPropagation/preventDefault
 
+#### 15/03/2019
+* final day of JavaScript short course - earned my certificate today
+* continued with CodeCademy React course - React components and render function
+* started Udemy course on Agile to learn the fundamentals in preparation for tomorrow's workshop
+* tweet update
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
