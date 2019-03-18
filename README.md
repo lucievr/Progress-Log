@@ -143,6 +143,14 @@
 * started Udemy course on Agile to learn the fundamentals in preparation for tomorrow's workshop
 * tweet update
 
+#### 16/03/2019
+* attended all-day workshop on Agile co-organised by Czechitas and Vistaprint
+
+#### 17/03/2019
+* started working on a website project to include in my portfolio
+* created a basic wireframe, decided on the design and colour theme, and selected images to include on the page
+* tweet update
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
