@@ -151,6 +151,17 @@
 * created a basic wireframe, decided on the design and colour theme, and selected images to include on the page
 * tweet update
 
+#### 18/03/2019
+* continued with my website project
+* added basic content - website layout, navbar, section headings, images, icons and a booking form
+* styled most sections of the page and added some functionality using javascript
+
+#### 19/03/2019
+* continued working on website project
+* added more content, functionality and animations to the page
+* continued with pre-bootcamp materials - learnt about the fundamentals of php, created my first php file and installed Wampserver (Apache, PHP, MySQL package)
+* tweet update
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
