@@ -27,7 +27,7 @@
 * started working through my pre-bootcamp materials - reviewed web dev basics, keyboard shortcuts, basic cmd commands
 * tweet update
 
-#### 26/02/19
+#### 26/02/2019
 * worked through pre-bootcamp materials (computer science history, web developer roadmap, intro to html & css)
 * completed lessons on web and html on marksheet.io
 * continued with freeCodeCamp JS section (debugging and basic data structures)
@@ -35,8 +35,7 @@
 * learnt about the Unix command line, the basics of backend, Hyper terminal, npm and node.js
 * tweet update
 
-#### 27/02/19
-
+#### 27/02/2019
 * watched Harvard Uni CS50 course week 0 YouTube video as part of pre-bootcamp prep
 * continued with Udemy web dev bootcamp by Angela
 * created my first server with express.js and installed nodemon & body parser
@@ -159,8 +158,13 @@
 #### 19/03/2019
 * continued working on website project
 * added more content, functionality and animations to the page
-* continued with pre-bootcamp materials - learnt about the fundamentals of php, created my first php file and installed Wampserver (Apache, PHP, MySQL package)
+* continued with pre-bootcamp materials - learnt about the fundamentals of PHP and PHP syntax, created my very first .php file and installed Wampserver (Apache, PHP, MySQL package)
 * tweet update
+
+#### 20/03/2019
+* completed another GitHub Learning Lab course - reviewing pull requests
+* continued learning the basics of PHP with Tutorial Republic
+* learnt about PHP data types, variables, operators, conditional statements, arrays, loops, and functions
 
 to do:
 - [ ] doggo api site for Becky & js calculator
