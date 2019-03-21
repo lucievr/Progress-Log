@@ -164,7 +164,12 @@
 #### 20/03/2019
 * completed another GitHub Learning Lab course - reviewing pull requests
 * continued learning the basics of PHP with Tutorial Republic
-* learnt about PHP data types, variables, operators, conditional statements, arrays, loops, and functions
+* learnt about PHP data types, variables, operators, conditional statements, arrays, and loops
+
+#### 21/03/2019
+* continued learning the basics of PHP with Tutorial Republic (functions, mathematical operations and GET/POST methods)
+* worked on website project
+* tweet update
 
 to do:
 - [ ] doggo api site for Becky & js calculator
