@@ -171,6 +171,14 @@
 * worked on website project
 * tweet update
 
+#### 22/03/2019
+* looked into materials on Angular as a preparation for tomorrow (Angular official docs, Udemy & Egghead.io intro)
+* signed up for Slack and joined a number of channels for developers
+* tweet update
+
+#### 23/03/2019
+* all-day workshop on building web apps with Angular organised by Barclays
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
