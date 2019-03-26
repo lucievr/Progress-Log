@@ -178,6 +178,11 @@
 
 #### 23/03/2019
 * all-day workshop on building web apps with Angular organised by Barclays
+* tweet update
+
+#### 26/03/2019
+* continued learning about PHP - advanced section on Tutorial Republic
+* tweet update
 
 to do:
 - [ ] doggo api site for Becky & js calculator
