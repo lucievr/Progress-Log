@@ -184,6 +184,10 @@
 * continued learning about PHP - advanced section on Tutorial Republic
 * tweet update
 
+#### 27/03/2019
+* signed up for Frontend Masters
+* started a course on TypeScript 3 Fundamentals with Mike North
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
