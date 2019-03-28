@@ -185,8 +185,14 @@
 * tweet update
 
 #### 27/03/2019
-* signed up for Frontend Masters
-* started a course on TypeScript 3 Fundamentals with Mike North
+* signed up for a membership with Frontend Masters
+* started a course on TypeScript v2 Fundamentals with Mike North
+* returned to CodeCademy and started their pro Node.js course
+
+#### 28/03/2019
+* completed Node.js course on CC
+* started TypeScript v1 course with Mike - this one goes more in depth and has more exercises
+* tweet update
 
 to do:
 - [ ] doggo api site for Becky & js calculator
