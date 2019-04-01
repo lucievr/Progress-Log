@@ -194,6 +194,28 @@
 * started TypeScript v1 course with Mike - this one goes more in depth and has more exercises
 * tweet update
 
+#### 29/03/2019
+* continued with TypeScript course and completed 5 ts challenges
+* attended Demo Day of Coding Bootcamp Praha
+* joined the list of contributors of Zero to Mastery GitHub org
+
+#### 30/03/2019
+* made a couple of contributions to the ZtM resources repo
+* tweaked Angular workshop exercise and pushed to GH
+* looked into more resources on php & intro to Laravel
+
+#### 31/03/2019
+* started working on pre-bootcamp questionnaire & checklist
+* completed course on JS errors and debugging on CC
+* started an intro course on Vue.js on Codecademy
+* tweet update
+
+#### 01/04/2019
+* finished the CC course and made a simple ticketing vue app
+* completed a crash course on Vue on Scrimba
+* completed Vue.js fundamentals course on vueschool.io and made a shopping list app
+* tweet update
+
 to do:
 - [ ] doggo api site for Becky & js calculator
 - [ ] marksheet.io css part & css tricks
@@ -202,4 +224,3 @@ to do:
 - [ ] complete first mockup website
 - [ ] tweak world clock & colour generator
 - [ ] tweak both challenges (dice & drum kit) to personalise design and style
-- [ ] Simon challenge
