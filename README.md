@@ -216,10 +216,19 @@
 * completed Vue.js fundamentals course on vueschool.io and made a shopping list app
 * tweet update
 
+#### 02/04/2019
+* completed an intro course on nuxt.js and created a small app
+* reviewed AJAX and DOM manipulation and made a dog picture generator website for a friend using a public API
+* tweet update
+
+#### 03/04/2019
+* optimised the dog image generator page for mobile devices
+* continued working on cafe mockup website - made most sections responsive
+
 to do:
-- [ ] doggo api site for Becky & js calculator
-- [ ] marksheet.io css part & css tricks
-- [ ] php & laravel pre-bootcamp materials
+- [ ] js calculator
+- [ ] marksheet.io css part, sass & css tricks
+- [ ] php with sql pre-bootcamp materials
 - [ ] complete pre-bootcamp questionnaire!
 - [ ] complete first mockup website
 - [ ] tweak world clock & colour generator
