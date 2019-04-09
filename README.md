@@ -225,11 +225,18 @@
 * optimised the dog image generator page for mobile devices
 * continued working on cafe mockup website - made most sections responsive
 
+#### 04/04/2019
+
+#### 05/04/2019
+
+#### 06/04/2019
+
+#### 10/04/2019
+
 to do:
 - [ ] js calculator
 - [ ] marksheet.io css part, sass & css tricks
 - [ ] php with sql pre-bootcamp materials
-- [ ] complete pre-bootcamp questionnaire!
 - [ ] complete first mockup website
 - [ ] tweak world clock & colour generator
 - [ ] tweak both challenges (dice & drum kit) to personalise design and style
