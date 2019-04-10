@@ -225,13 +225,23 @@
 * optimised the dog image generator page for mobile devices
 * continued working on cafe mockup website - made most sections responsive
 
-#### 04/04/2019
-
 #### 05/04/2019
+* completed Frontend Masters courses: Complete intro to web dev by Brian Holt and Intro to JS programming with Kyle Simpson
+* tweet update
 
 #### 06/04/2019
+* completed From Fundamentals to Functional JS with Bianca Gandolfo
+
+#### 07/04/2019
+* started ES6: The Right Parts and JS: The Hard Parts with Will Sentance
+* tweet update
+
+#### 08/04/2019
+* completed all pre-bootcamp studies and submitted a questionnaire to report on current progress and level of knowledge
 
 #### 10/04/2019
+* continued with JS: The Hard Parts
+* tweet update
 
 to do:
 - [ ] js calculator
