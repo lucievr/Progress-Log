@@ -243,6 +243,11 @@
 * continued with JS: The Hard Parts
 * tweet update
 
+#### 11/04/2019
+* completed JS: The Hard Parts course
+* continued with React course on Codecademy
+* tweet update
+
 to do:
 - [ ] js calculator
 - [ ] marksheet.io css part, sass & css tricks
