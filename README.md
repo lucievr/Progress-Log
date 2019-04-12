@@ -245,7 +245,12 @@
 
 #### 11/04/2019
 * completed JS: The Hard Parts course
-* continued with React course on Codecademy
+* continued with React.js I course on Codecademy
+* tweet update
+
+#### 12/04/2019
+* completed React.js part I on CC
+* worked through Complete intro to React course on FEM with Brian
 * tweet update
 
 to do:
