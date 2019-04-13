@@ -253,6 +253,10 @@
 * worked through Complete intro to React course on FEM with Brian
 * tweet update
 
+#### 13/04/2019
+* looked through sections of React FEM v3 that were not covered in v4
+* started the Beginner's guide to React with Kent C.Dodds and practised on exercises
+
 to do:
 - [ ] js calculator
 - [ ] marksheet.io css part, sass & css tricks
