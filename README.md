@@ -257,10 +257,22 @@
 * looked through sections of React FEM v3 that were not covered in v4
 * started the Beginner's guide to React with Kent C.Dodds and practised on exercises
 
+#### 14/04/2019
+* completed the React course with Kent
+* completed course on Node.js on FEM
+
+#### 16/04/2019
+* started reading through the official React documentation
+* tweet update
+
+#### 17/04/2019
+* continued with studying React docs
+* tweet update
+
 to do:
+- [ ] product compare app (sneakers & backpacks)
 - [ ] js calculator
 - [ ] marksheet.io css part, sass & css tricks
-- [ ] php with sql pre-bootcamp materials
 - [ ] complete first mockup website
 - [ ] tweak world clock & colour generator
 - [ ] tweak both challenges (dice & drum kit) to personalise design and style
