@@ -269,6 +269,10 @@
 * continued with studying React docs
 * tweet update
 
+#### 18/04/2019
+* completed React exercises and pushed to GitHub
+* worked on improving the cafe mockup website
+
 to do:
 - [ ] product compare app (sneakers & backpacks)
 - [ ] js calculator
