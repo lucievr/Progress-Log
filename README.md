@@ -273,6 +273,11 @@
 * completed React exercises and pushed to GitHub
 * worked on improving the cafe mockup website
 
+#### 19/04/2019
+* started React course on Scrimba
+* completed React Part II on CodeCademy
+* tweet update
+
 to do:
 - [ ] product compare app (sneakers & backpacks)
 - [ ] js calculator
