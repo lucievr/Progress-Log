@@ -278,10 +278,20 @@
 * completed React Part II on CodeCademy
 * tweet update
 
+#### 20/04/2019
+* continued with Scrimba course
+* started building todo app
+
+#### 21/04/2019
+* learnt more about SASS and CSS from marksheet.io
+* React crash course by Brad Traversy
+
+#### 22/04/2019
+* tweet update
+
 to do:
 - [ ] product compare app (sneakers & backpacks)
 - [ ] js calculator
-- [ ] marksheet.io css part, sass & css tricks
 - [ ] complete first mockup website
 - [ ] tweak world clock & colour generator
 - [ ] tweak both challenges (dice & drum kit) to personalise design and style
