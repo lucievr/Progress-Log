@@ -289,6 +289,10 @@
 #### 22/04/2019
 * tweet update
 
+#### 29/04/2019
+* Day 1 of Coding Bootcamp Praha
+* tweet update
+
 to do:
 - [ ] product compare app (sneakers & backpacks)
 - [ ] js calculator
