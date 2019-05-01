@@ -291,11 +291,22 @@
 
 #### 29/04/2019
 * Day 1 of Coding Bootcamp Praha
+* intro to web dev, VS Code, HTML, terminal, keyboard shortcuts, Git & GitHub
 * tweet update
 
+#### 30/04/2019
+* Day 2 of CBP
+* wireframes and mockups, UX & UI, basic CSS styles, colour & typography, Moqups exercise
+* tweet update
+
+### 01/05/2019
+* Day 3 of CBP
+* web design, user story, web security, graphic editing
+* HR workshop on job hunting, CVs & LinkedIn
+
 to do:
-- [ ] product compare app (sneakers & backpacks)
+- [ ] product compare app
+- [ ] personal portfolio site
 - [ ] js calculator
-- [ ] complete first mockup website
+- [ ] complete cafe mockup website
 - [ ] tweak world clock & colour generator
-- [ ] tweak both challenges (dice & drum kit) to personalise design and style
